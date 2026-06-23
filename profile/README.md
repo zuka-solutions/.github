@@ -23,5 +23,5 @@ We build fintech and social infrastructure products focused on access, simplicit
 
 ## Projects
 
-- Zuka Cash — WhatsApp-first financial tools
-- Zuka Website — Public website and company presence
+- Zuka — WhatsApp-first financial tools
+- getZuka — Public website and company presence
